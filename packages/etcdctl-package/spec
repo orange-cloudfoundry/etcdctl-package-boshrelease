@@ -1,0 +1,5 @@
+---
+name: etcdctl-package
+dependencies: []
+files:
+- etcdctl/etcdctl.tar.gz
