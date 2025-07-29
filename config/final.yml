@@ -2,7 +2,7 @@
 blobstore:
   provider: s3
   options:
-    bucket_name: s3selfcare-etcdctl-package-boshrelease
+    bucket_name: orange-etcdctl-package-boshrelease
     region: eu
     host: storage.googleapis.com
 final_name: etcdctl-package
