@@ -15,6 +15,6 @@ directories:
       disableAutoChecksumValidation: true
       assetNames: # only download specific assets (optional; v0.12.0+). We use assetNames inside githubRelease instead of
       # includePaths at path level. Using includePaths downloads all assets and filter after.
-      - "etcd-v3.5.21-linux-amd64.tar.gz"
+      - "etcd-v*-linux-amd64.tar.gz"
     # includePaths: # includes paths specify what should be included. by default all paths are included (optional)
 
