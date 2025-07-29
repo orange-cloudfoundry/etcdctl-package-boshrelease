@@ -17,4 +17,3 @@ directories:
       # includePaths at path level. Using includePaths downloads all assets and filter after.
       - "etcd-v*-linux-amd64.tar.gz"
     # includePaths: # includes paths specify what should be included. by default all paths are included (optional)
-
