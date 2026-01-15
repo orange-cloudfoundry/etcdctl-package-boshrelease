@@ -9,4 +9,6 @@ builds:
     version: 3.5.21
   cdda66b0-0465-4e81-6c78-afeb6f0e3aff:
     version: 3.6.2
+  f30ca3a4-36de-41ca-4528-5818250fd125:
+    version: 3.6.7
 format-version: "2"
