@@ -11,7 +11,7 @@ directories:
   - path: etcd-io/etcd
     githubRelease:
       slug: etcd-io/etcd 
-      tag: v3.6.6
+      tag: v3.6.7
       disableAutoChecksumValidation: true
       assetNames: # only download specific assets (optional; v0.12.0+). We use assetNames inside githubRelease instead of
       # includePaths at path level. Using includePaths downloads all assets and filter after.
