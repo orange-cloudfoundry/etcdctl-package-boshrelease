@@ -2,8 +2,8 @@ apiVersion: vendir.k14s.io/v1alpha1
 directories:
 - contents:
   - githubRelease:
-      tag: v3.6.10
-      url: https://api.github.com/repos/etcd-io/etcd/releases/304350860
+      tag: v3.6.12
+      url: https://api.github.com/repos/etcd-io/etcd/releases/332766508
     path: etcd-io/etcd
   path: src/github.com
 kind: LockConfig
