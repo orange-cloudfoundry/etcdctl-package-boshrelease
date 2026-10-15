@@ -19,6 +19,8 @@ builds:
     version: 3.6.12
   ed7405ad-96e6-4dab-63b2-bf14b5343fe9:
     version: 3.6.10
+  f063be6d-7934-428e-7ad8-df5ed06dd864:
+    version: 3.7.2
   f30ca3a4-36de-41ca-4528-5818250fd125:
     version: 3.6.7
 format-version: "2"

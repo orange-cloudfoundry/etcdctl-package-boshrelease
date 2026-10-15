@@ -1,0 +1,22 @@
+name: etcdctl-package
+version: 3.7.2
+commit_hash: 9e52946
+uncommitted_changes: true
+jobs:
+- name: etcdctl
+  version: f8ddc385d9ef43a4eaa955339d20e4a65b38cff2885a5e950655b1bc58e943a4
+  fingerprint: f8ddc385d9ef43a4eaa955339d20e4a65b38cff2885a5e950655b1bc58e943a4
+  sha1: sha256:87f632476363391d23cc9eacd6e33d5abc8c6d2aef1db7ea8eeaf1b64e41cfb3
+  packages:
+  - etcdctl-package
+packages:
+- name: etcdctl-package
+  version: 6a460aa65f3b248bc062e40f7317a17afdad86cebfe925a2acb15e23aa2480f5
+  fingerprint: 6a460aa65f3b248bc062e40f7317a17afdad86cebfe925a2acb15e23aa2480f5
+  sha1: sha256:ab002abcbcf562e30ad1362e919f6f41a4346ac4917c8e9c527922c61b67c057
+  dependencies: []
+license:
+  version: cf0ca1fe65dee9607c7bb9460a3f20835e582cbb7f5b2c3625fba2e21d7e91b9
+  fingerprint: cf0ca1fe65dee9607c7bb9460a3f20835e582cbb7f5b2c3625fba2e21d7e91b9
+  sha1: sha256:db0f5dff8e926f27a1e854ecacf475336a48ee6597e346299a9fd1b6fafdec8b
+no_compression: false
